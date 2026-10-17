@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Penggilingan Padi & POS Beras Terpadu",
+  "description": "Sistem POS dan operasional usaha penggilingan padi serta perdagangan beras lengkap: penjualan beras & dedak, pembelian gabah & rafaksi, jasa giling upah/potong hasil, manajemen hutang piutang, cetak struk & nota WhatsApp, serta asisten AI operasional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
